@@ -3,7 +3,7 @@ GEM
   specs:
     awesome_print (1.9.2)
     base58 (0.2.3)
-    bindata (2.4.8)
+    bindata (2.4.10)
     bitcoin-ruby (0.0.20)
       eventmachine
       ffi
